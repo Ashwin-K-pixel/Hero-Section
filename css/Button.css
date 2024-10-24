@@ -1,0 +1,12 @@
+#btn-div { 
+   border-radius: 50px;
+   width: 134px;
+   height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-weight: bold;
+}
+
+
+

@@ -1,0 +1,88 @@
+#left-section-div { 
+    height: 700px;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    margin: 7% 0 0 13%;
+}
+
+/* FAIR PRICE TEXT */
+.fair-price-text-div{
+    height: 13%;
+    width: 100%;
+}
+
+.fair-price-text { 
+    color: black;
+    margin: 0;
+    font-size: 50px;
+    font-weight: 400;
+    color: #364547;
+    font-family: "Poppins", sans-serif;
+
+}
+
+/* Rent our scootr div */
+
+.rent-our-scooter-div {
+    height: 13%;
+    width: 100%;
+    font-family: "Poppins", sans-serif;
+}
+
+.rent-our-scooter-text { 
+    color: #000;
+    margin: 0;
+    font-size: 70px;
+}
+
+.rent-text { 
+    color: #364547;
+    font-size: 70px;
+}
+
+.scooter-text { 
+    color: #EF8D21;
+}
+
+/*  */
+
+.left-section-description-div { 
+    height: 15%;
+    width: 551px;
+    font-family: "Poppins", sans-serif;
+    margin: 0 0 0 8px;
+}
+
+.left-section-description-text{ 
+    color: #000;
+}
+
+
+/* Navig */
+
+.navig-div {
+    width: 620px;
+    height: 80px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 40px;
+    margin-top: 2%;
+    box-shadow: 0 2px 2px #EDEDED;
+    z-index: 1;
+}
+
+.navig-text { 
+    color: #8F8F8F;
+    font-size: 22px;
+    margin: 0;
+}
+
+.left-leaf-img-div { 
+    position: absolute;
+    top: 630px;
+    z-index: 0;
+}
